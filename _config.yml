@@ -3,20 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Chris
-middle_name: Choi
-last_name: (최민영)
-email: minyeonc@andrew.cmu.edu
+first_name: Andrea
+# middle_name: 
+last_name: Giovannetti
+email: andrea.giovannetti@acu.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Chris Choi's personal website
+  Andrea Giovannetti's personal website
 footer_text: >
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+# icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://chrischoi314.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
+url: https://andrea-giovannetti.github.io # the base hostname & protocol for your site
+baseurl: /site/  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
