@@ -9,14 +9,13 @@ last_name: Giovannetti
 email: andrea.giovannetti@acu.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Andrea Giovannetti's personal website
-footer_text: >
-keywords:  # add your own keywords or leave empty
+footer_text: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://andrea-giovannetti.github.io # the base hostname & protocol for your site
-baseurl: /site/  # the subpath of your site, e.g. /blog/
+baseurl: /site  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -45,7 +44,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -64,7 +63,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: andrea-giovannetti # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: andrea-giovannetti # your X handle
 #mastodon_username: mastodon.social/@chrischoi314 # your mastodon instance+username in the format instance.tld/@username
@@ -101,7 +100,7 @@ orcid_id: 0000-0001-7685-5644 # your ORCID ID
 #wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  I am best reached through my email!
+  I am best reached through my email :)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -117,8 +116,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog posts # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name: posts # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
 blog_description: 
 permalink: /blog/:year/:title/
 

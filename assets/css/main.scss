@@ -18,3 +18,43 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+
+// ROBA DAL SITO QCRGROUP
+
+
+
+.partners {
+  padding: 5px 0;
+  background: #ffffff;
+  text-align: left;
+
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  .partners-container {
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .partners-container a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: flex;
+    background: #ffffff; /* Optional: background color for the boxes */
+    border: 2px solid #ddd; /* Optional: border for the boxes */
+    border-radius: 5px; /* Optional: rounded corners for the boxes */
+  }
+
+  .partners-container img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+  }
+}
