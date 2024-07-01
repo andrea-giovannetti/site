@@ -8,7 +8,8 @@ category: research
 #related_publications: 
 ---
 
-_This post summarizes a short pilot behind a comprehensive project I am working on with [Matteo Vergani](https://experts.deakin.edu.au/27631-Matteo-Vergani) and other friends/colleagues at Deakin University._
+_This post summarizes a short pilot behind a comprehensive project I am working on with [Matteo Vergani](https://experts.deakin.edu.au/27631-Matteo-Vergani) and other friends/colleagues at Deakin University
+In this work, we developed a cost-benefit methodology to assess the peculiar merits of information inoculation as opposed to deplatforming for controlling extremism._
 
 
 <html lang="en">
@@ -16,7 +17,6 @@ _This post summarizes a short pilot behind a comprehensive project I am working 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Evaluating Policy Synergies Against Online Extremism</title>
-    <link rel="stylesheet" href="path_to_your_stylesheet.css">
 </head>
 <body>
     <div class="post">
@@ -78,5 +78,18 @@ _This post summarizes a short pilot behind a comprehensive project I am working 
             </div>
         </article>
     </div>
+
+<div class="team-members">
+  <h2>Team:</h2>
+  <ul>
+    <li><strong>A/Prof Matteo Vergani, Deakin University</strong> (<a href="mailto:matteo.vergani@deakin.edu.au">matteo.vergani@deakin.edu.au</a>)</li>
+    <li><strong>Stephanie Zi Xin Ng, Deakin University</strong> (<a href="mailto:szng@deakin.edu.au">szng@deakin.edu.au</a>)</li>
+    <li><strong>Dr Andrea Giovannetti, Australian Catholic University</strong> (<a href="mailto:andrea.giovannetti@acu.edu.au">andrea.giovannetti@acu.edu.au</a>)</li>
+    <li><strong>A/Prof Chee Peng Lim, Deakin University</strong> (<a href="mailto:chee.lim@deakin.edu.au">chee.lim@deakin.edu.au</a>)</li>
+    <li><strong>Dr James Zhang, Deakin University</strong> (<a href="mailto:james.z@deakin.edu.au">james.z@deakin.edu.au</a>)</li>
+    <li><strong>Prof Robin Scott, Deakin University</strong> (<a href="mailto:r.scott@deakin.edu.au">r.scott@deakin.edu.au</a>)</li>
+  </ul>
+</div>
+
 </body>
 </html>

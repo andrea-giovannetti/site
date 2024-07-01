@@ -58,3 +58,13 @@ $max-content-width: {{ site.max_width }};
     height: auto;
   }
 }
+
+.team-members,
+.abstract {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
