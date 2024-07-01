@@ -53,7 +53,7 @@ partners_andrea:
 
   <p>I obtained my PhD in Economics in 2018 from the <a href="https://www.southampton.ac.uk/">University of Southampton</a>, UK. From 2018 to 2021 I worked as a research fellow at the <a href="https://www.uts.edu.au/about/uts-business-school/economics-department">Economics Department</a> of University of Technology Sydney.</p>
 
-  <p>Before joining ACU, I was a <strong>Marie Skłodowska-Curie fellow</strong> at the <a href="https://www.crim.cam.ac.uk">Institute of Criminology</a> of the University of Cambridge, UK. At Cambridge, I currently hold a position as associate researcher at <a href="https://www.darwin.cam.ac.uk/">Darwin College</a> and I am an active member of the <a href="https://www.vrc.crim.cam.ac.uk/">Violence Research Centre</a> of the Institute.</p>
+  <p>Before joining ACU, I was a <strong>Marie Skłodowska-Curie fellow</strong> at the <a href="https://www.crim.cam.ac.uk">Institute of Criminology</a> of the University of Cambridge, UK. At Cambridge, I currently hold a position as associate researcher at <a href="https://www.darwin.cam.ac.uk/">Darwin College</a> and I am an active member of the <a href="https://www.vrc.crim.cam.ac.uk/">Violence Research Centre</a> at the Institute.</p>
 
 <br>
 

@@ -8,7 +8,7 @@ category: research
 #related_publications: 
 ---
 
-_This post summarizes a short pilot behind a comprehensive project I am working on with [Matteo Vergani](https://experts.deakin.edu.au/27631-Matteo-Vergani) and other friends/colleagues at Deakin University
+_This post summarizes a short pilot behind a comprehensive project I am working on with [Matteo Vergani](https://experts.deakin.edu.au/27631-Matteo-Vergani) and other colleagues at Deakin University.
 In this work, we developed a cost-benefit methodology to assess the peculiar merits of information inoculation as opposed to deplatforming for controlling extremism._
 
 
