@@ -1,8 +1,8 @@
 ---
 layout: about
-title: hello
+title: home
 permalink: /
-subtitle: Quantitative Criminology · Human Networks · Simulation and Metrics
+subtitle: <strong>Quantitative Criminology</strong> · <strong>Human Networks</strong> · <strong>Simulations and Metrics</strong>
 profile:
   align: right
   image: prof_pic.jpg
@@ -47,10 +47,9 @@ partners_andrea:
 
 ---
 
-<br>
-<br>
 
- <p>Welcome to my (temporary) page, where I store some information about myself and what I do as a researcher! I am a <strong>Principal Investigator</strong> at the <a href="https://hilstlab.org/">HILSTLab</a>, and <strong>Assistant Professor in Economics and Quantitative Methods</strong> at the <a href="https://www.acu.edu.au/about-acu/faculties-directorates-and-staff/faculty-of-law-and-business">Faculty of Law and Business</a> of the Australian Catholic University.</p>
+ <p>Welcome to my (temporary) page, where I store some information about myself and what I do as a researcher! </p>
+<p>  I am a <strong>Principal Investigator</strong> at the <a href="https://hilstlab.org/">HILSTLab</a>, and <strong>Assistant Professor in Economics and Quantitative Methods</strong> at the <a href="https://www.acu.edu.au/about-acu/faculties-directorates-and-staff/faculty-of-law-and-business">Faculty of Law and Business</a> of the Australian Catholic University.</p>
 
   <p>I obtained my PhD in Economics in 2018 from the <a href="https://www.southampton.ac.uk/">University of Southampton</a>, UK. From 2018 to 2021 I worked as a research fellow at the <a href="https://www.uts.edu.au/about/uts-business-school/economics-department">Economics Department</a> of University of Technology Sydney.</p>
 
