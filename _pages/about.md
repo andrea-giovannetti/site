@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: me
 permalink: /
 subtitle: <strong>Quantitative Criminology</strong> · <strong>Human Networks</strong> · <strong>Simulations and Metrics</strong>
 profile:
@@ -49,11 +49,11 @@ partners_andrea:
 
 
  <p>Welcome to my (temporary) page, where I store some information about myself and what I do as a researcher! </p>
-<p>  I am a <strong>Principal Investigator</strong> at the <a href="https://hilstlab.org/">HILSTLab</a>, and <strong>Assistant Professor in Economics and Quantitative Methods</strong> at the <a href="https://www.acu.edu.au/about-acu/faculties-directorates-and-staff/faculty-of-law-and-business">Faculty of Law and Business</a> of the Australian Catholic University.</p>
+<p>  I am a <strong>Principal Investigator</strong> at the <a href="https://hilstlab.org/">HILSTLab</a>, and <strong>Assistant Professor in Economics and Quantitative Methods</strong> at the <a href="https://www.acu.edu.au/about-acu/faculties-directorates-and-staff/faculty-of-law-and-business">Faculty of Law and Business</a> of the Australian Catholic University, based in beautiful Sydney.</p>
 
-  <p>I obtained my PhD in Economics in 2018 from the <a href="https://www.southampton.ac.uk/">University of Southampton</a>, UK. From 2018 to 2021 I worked as a research fellow at the <a href="https://www.uts.edu.au/about/uts-business-school/economics-department">Economics Department</a> of University of Technology Sydney.</p>
+<p> Before joining ACU, I was a <strong>Marie Skłodowska-Curie fellow</strong> at the <a href="https://www.crim.cam.ac.uk">Institute of Criminology</a> of the University of Cambridge, UK, where I retain a visiting position. At Cambridge, I am an active member of the <a href="https://www.vrc.crim.cam.ac.uk/">Violence Research Centre</a> and I also hold a position as associate researcher at <a href="https://www.darwin.cam.ac.uk/">Darwin College</a>. </p>
 
-  <p>Before joining ACU, I was a <strong>Marie Skłodowska-Curie fellow</strong> at the <a href="https://www.crim.cam.ac.uk">Institute of Criminology</a> of the University of Cambridge, UK. At Cambridge, I currently hold a position as associate researcher at <a href="https://www.darwin.cam.ac.uk/">Darwin College</a> and I am an active member of the <a href="https://www.vrc.crim.cam.ac.uk/">Violence Research Centre</a> at the Institute.</p>
+<p>I obtained my PhD in Economics in 2018 from the <a href="https://www.southampton.ac.uk/">University of Southampton</a>, UK. After that, from 2018 to 2021 I worked as a research fellow at the <a href="https://www.uts.edu.au/about/uts-business-school/economics-department">Economics Department</a> of University of Technology Sydney.</p>
 
 <br>
 
