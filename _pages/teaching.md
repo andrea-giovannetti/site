@@ -2,28 +2,31 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: A summary of my work as a teacher. 
+# description: 
 nav: true
 nav_order: 6
 ---
 
+A quick summary of my work as am university teacher. Feel free to drop me an email for teaching evaluations!
+
 At [ACU](https://www.acu.edu.au/) (2024):
 
 <ul>
-	<li>ECON600 (Managerial Economics) - as Module Coordinator and Lecturer (Semester I)</li>
-	<li>ECON200 (Policy Frameworks and Markets) - as Module Coordinator and Lecturer (Semester I)</li>
+	<li>ECON600 (Managerial Economics) - as module coordinator and lecturer (Semester I)</li>
+	<li>ECON200 (Policy Frameworks and Markets) - as module coordinator and lecturer (Semester I)</li>
 </ul>
 
 At [Cambridge](https://www.cam.ac.uk/) (2023):
 
 <ul>
-	<li>Organized Forms of Crime - as Co-Convenor and Lecturer (Semester I)</li>
+	<li>Organized Forms of Crime - as co-convenor and lecturer (Semester I)</li>
 </ul>
 
 At [UTS](https://www.uts.edu.au/) (2017-2021):
 
 <ul>
-	<li>23005 (Behavioural Economics) - as Module Coordinator and Lecturer (Semester II)</li>
+	<li>Mathematics (Economics PhD stream) - as tutorial instructor (Semester I)</li>
+	<li>23005 (Behavioural Economics) - as module coordinator and lecturer (Semester II)</li>
 </ul>
 
 
