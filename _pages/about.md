@@ -15,9 +15,9 @@ social: true  # includes social icons at the bottom of the page
 
 partners_andrea:
 
-#  - image_path: /assets/img/cambridge_logo.png
-#    alt: "University of Cambridge"
-#    url: "http://www.cam.ac.uk"
+  - image_path: /assets/img/cambridge_logo.png
+    alt: "University of Cambridge"
+    url: "http://www.cam.ac.uk"
   - image_path: /assets/img/merseyside_logo.png
     alt: "Merseyside Police"
     url: "https://www.merseyside.police.uk/"
@@ -36,6 +36,12 @@ partners_andrea:
   - image_path: /assets/img/hilst.png
     alt: "HILST Lab"
     url: "https://hilstlab.org"
+  - image_path: /assets/img/oxf.png
+    alt: "University of Oxford"
+    url: "http://ox.ac.uk"
+  - image_path: /assets/img/najoya.jpg
+    alt: "University of Nagoya"
+    url: "https://en.nagoya-u.ac.jp/"
   - image_path: /assets/img/modena.png
     alt: "University of Modena and Reggio Emilia"
     url: "https://www.unimore.it/it"
