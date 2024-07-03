@@ -63,7 +63,7 @@ partners_andrea:
 
 <br>
 
-  <h3>Current Research </h3>
+  <h3>What I am working on at the moment:</h3>
   <ol>
     <li>How Organized Crime Groups Interact: A Theory of Differential Cooperation (with P. Campana)</li>
     <li>Becker in the City: Diffusion and Dilution of Crime across Neighborhoods of London (with P. Campana)</li>
@@ -78,7 +78,7 @@ partners_andrea:
 
 <br> 
 
-  <h3>Main Grants (USD Equivalent)</h3>
+  <h3>Main grants (USD equivalent)</h3>
   <ul>
     <li>Breaking networks of youth serious violence, ESRC, 2024 (team member) (<strong>147,070 USD</strong>)</li>
     <li>Marie Sklodowska-Curie Individual Fellowship (eval. top 1%), 2020 (<strong>256,950 USD</strong>)</li>
@@ -93,7 +93,7 @@ partners_andrea:
 
 <section class="partners">
 
-  <h3>My Collaborations and Partners</h3>
+  <h3>My collaborations and partners</h3>
 
 <br>  <div class="partners-container">
     {% for partner in page.partners_andrea %}
