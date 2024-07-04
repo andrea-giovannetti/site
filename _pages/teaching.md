@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-A quick summary of my work as uni lecturer. Feel free to drop me an email for teaching evaluations!
+A brief summary of my work as uni lecturer. Feel free to drop an email for teaching evaluations!
 
 At [ACU](https://www.acu.edu.au/) (2024):
 
