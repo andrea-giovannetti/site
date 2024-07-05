@@ -48,6 +48,9 @@ partners_andrea:
   - image_path: /assets/img/eu.png
     alt: "European Union"
     url: "https://european-union.europa.eu/index_en"
+  - image_path: /assets/img/bolo1.svg
+    alt: "Universita di Bologna"
+    url: "https://www.unibo.it/it"
 
 
 
