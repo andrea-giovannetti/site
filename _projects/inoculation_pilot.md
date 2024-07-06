@@ -6,10 +6,14 @@ img: assets/img/projects/end_po_0_6.png
 importance: 1
 category: research
 #related_publications: 
+
 ---
 
 _This post summarizes a short pilot behind a comprehensive project I am working on with [Matteo Vergani](https://experts.deakin.edu.au/27631-Matteo-Vergani) and other colleagues at Deakin University.
 In this work, we developed a cost-benefit methodology to assess the peculiar merits of information inoculation as opposed to deplatforming for controlling extremism._
+
+Working Paper available <a href="/assets/pdf/_InoculationABM_19May.pdf"> [HERE]</a>
+
 
 
 <html lang="en">
@@ -78,6 +82,8 @@ In this work, we developed a cost-benefit methodology to assess the peculiar mer
             </div>
         </article>
     </div>
+
+
 
 <div class="team-members">
   <h2>Team:</h2>
