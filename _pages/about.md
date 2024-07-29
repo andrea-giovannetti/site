@@ -2,7 +2,7 @@
 layout: about
 title: me
 permalink: /
-subtitle: <strong>Quantitative Criminology</strong> · <strong>Human Networks</strong> · <strong>Simulations and Metrics</strong>
+subtitle: <strong>Human Networks</strong> · <strong>Quantitative Criminology</strong> · <strong>Simulations and Metrics</strong>
 profile:
   align: right
   image: prof_pic.jpg
@@ -58,8 +58,6 @@ partners_andrea:
 
 
  <p>Welcome to my (temporary) page, where I store some information about my work as an academic!</p>
-
-<p>Reality is a set of interconnected entities: the properties and the complexity of such interconnections matter for understanding and impacting crucial social phenomena such as the diffusion of human behaviours. In my work, I develop <strong>analytical models and apply high-power contemporary computational and statistical techniques to investigate and address complex real-life behavioural problems</strong>. </p>
 
 <p>  I am a <strong>Principal Investigator</strong> at the <a href="https://hilstlab.org/">HILSTLab</a>, and <strong>Assistant Professor in Economics and Quantitative Methods</strong> at the <a href="https://www.acu.edu.au/about-acu/faculties-directorates-and-staff/faculty-of-law-and-business">Faculty of Law and Business</a> of the Australian Catholic University, based in beautiful Sydney.</p>
 
