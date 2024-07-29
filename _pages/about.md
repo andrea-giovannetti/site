@@ -61,8 +61,6 @@ partners_andrea:
 
 <p>  I am a <strong>Principal Investigator</strong> at the <a href="https://hilstlab.org/">HILSTLab</a>, and <strong>Assistant Professor in Economics and Quantitative Methods</strong> at the <a href="https://www.acu.edu.au/about-acu/faculties-directorates-and-staff/faculty-of-law-and-business">Faculty of Law and Business</a> of the Australian Catholic University, based in beautiful Sydney.</p>
 
-<p> Examples of projects I am currently coordinating and working on include the analysis and the mitigation of gang violence in Greater London Area (about 9 million inhabitants) and the design of non-coercive policies to control the spread of radicalization in vulnerable populations of Victoria. </p>
-
 <p> Before joining ACU, I was a <strong>Marie Skłodowska-Curie fellow</strong> at the <a href="https://www.crim.cam.ac.uk">Institute of Criminology</a> of the University of Cambridge, UK, where I retain a visiting position. At Cambridge, I am an active member of the <a href="https://www.vrc.crim.cam.ac.uk/">Violence Research Centre</a> and I also hold a position as associate researcher at <a href="https://www.darwin.cam.ac.uk/">Darwin College</a>. </p>
 
 <p>I obtained my PhD in Economics in 2018 from the <a href="https://www.southampton.ac.uk/">University of Southampton</a>, UK. After that, from 2018 to 2021 I worked as a research fellow at the <a href="https://www.uts.edu.au/about/uts-business-school/economics-department">Economics Department</a> of University of Technology Sydney.</p>
