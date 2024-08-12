@@ -41,16 +41,22 @@ $max-content-width: {{ site.max_width }};
     flex-wrap: wrap;
   }
 
-  .partners-container a {
+   .partners-container a {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 120px;
-    height: flex;
+    height: auto; /* Adjust height based on the content */
     background: #ffffff; /* Optional: background color for the boxes */
     border: 2px solid #ddd; /* Optional: border for the boxes */
     border-radius: 5px; /* Optional: rounded corners for the boxes */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Transition effect */
   }
+
+ .partners-container a:hover {
+    background-color: #f0f0f0; /* Slight shade change */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slight shadow effect */
+}
 
   .partners-container img {
     max-width: 100%;
