@@ -69,7 +69,7 @@ partners_andrea:
 
  <h3>I am working on:</h3>
   <ol>
-    <li>Dangerous Liaisons: A network analysis and a longitudinal study of Violence in the London Metropolitan Area.</li>
+    <li>Dangerous Liaisons: A network analysis and a longitudinal study of Violence in the London Metropolitan Area (with P. Campana)</li>
     <li>How Organized Crime Groups Interact: A Theory of Differential Cooperation (with P. Campana)</li>
     <li>Formation of Supply Chains and Trade Credit: Can Banks Amplify Contagion Risk? (with G. Cardillo) </li>
     <li>Inoculation Against Online Extremism: An Agent Based Simulation and Cost Benefit Analysis (with M. Vergani, S. Ng, C.P. Lim, J. Zhang and R. Scott)</li>
