@@ -59,7 +59,7 @@ partners_andrea:
 
  <p>Welcome to my (temporary) page, where I store some information about my work as an academic!</p>
 
-<p>  I am a <strong>Principal Investigator</strong> at the <a href="https://hilstlab.org/">HILSTLab</a>, and <strong>Lecturer (equivalent to Assistant Professor) in Economics and Quantitative Methods</strong> at the <a href="https://www.acu.edu.au/about-acu/faculties-directorates-and-staff/faculty-of-law-and-business">Faculty of Law and Business</a> of the Australian Catholic University, based in beautiful Sydney.</p>
+<p>  I am a <strong>Principal Investigator</strong> at the <a href="https://hilstlab.org/">HILSTLab</a>, and <strong>Lecturer</strong> (equivalent to <strong>Assistant Professor</strong> in the U.S. system) in Economics and Quantitative Methods</strong> at the <a href="https://www.acu.edu.au/about-acu/faculties-directorates-and-staff/faculty-of-law-and-business">Faculty of Law and Business</a> of the Australian Catholic University, based in beautiful Sydney.</p>
 
 <p> Before joining ACU, I was a <strong>Marie Skłodowska-Curie fellow</strong> at the <a href="https://www.crim.cam.ac.uk">Institute of Criminology</a> of the University of Cambridge, UK, where I retain a visiting position. At Cambridge, I am an active member of the <a href="https://www.vrc.crim.cam.ac.uk/">Violence Research Centre</a> and I also hold a position as associate researcher at <a href="https://www.darwin.cam.ac.uk/">Darwin College</a>. </p>
 
