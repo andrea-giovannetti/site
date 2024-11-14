@@ -74,7 +74,7 @@ partners_andrea:
     <li>Formation of Supply Chains and Trade Credit: Can Banks Amplify Contagion Risk? (with G. Cardillo) </li>
     <li>Inoculation Against Online Extremism: An Agent Based Simulation and Cost Benefit Analysis (with M. Vergani, S. Ng, C.P. Lim, J. Zhang and R. Scott)</li>
     <li>Property Rights (with P. Pin, R. Rozzi and P. Campana)</li>
-    <li>The structure of cooperation among organised crime groups: A network study of Merseyside, UK (with P. Campana) </li>
+    <li>The structure of cooperation among organised crime groups: A network study of Merseyside, UK (with P. Campana) <strong> Conditionally Accepted, Journal of Criminal Justice </strong> </li>
     <li>Local Interactions in a Market with Heterogeneous Expectations (with M. Anufriev and V. Panchenko) </li>
     <li>Trust thy neighbor: Measuring the effect of governance-type organised crime on local communities and markets: a quasi-natural experiment on Japan  (with M. Baradel) </li>
     <li>Becker in the City: Diffusion and Dilution of Crime across Neighborhoods of London (with P. Campana)</li>
