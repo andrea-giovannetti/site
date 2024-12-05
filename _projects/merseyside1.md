@@ -50,7 +50,7 @@ such interventions
 <div class="team-members">
   <h2>Team:</h2>
   <ul>
-    <li><strong>Prof. Paolo Campana, University of Cambridge</strong> (<a href="mailto:pc524@cam.ac.uk">pc524@cam.ac.uk</a>)</li>
     <li><strong>Dr. Andrea Giovannetti, Australian Catholic University</strong> (<a href="mailto:andrea.giovannetti@acu.edu.au">andrea.giovannetti@acu.edu.au</a>)</li>
+    <li><strong>Prof. Paolo Campana, University of Cambridge</strong> (<a href="mailto:pc524@cam.ac.uk">pc524@cam.ac.uk</a>)</li>
   </ul>
 </div>
