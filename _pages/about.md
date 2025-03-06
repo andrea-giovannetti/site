@@ -70,6 +70,8 @@ partners_andrea:
  <h3>I am working on:</h3>
   <ol>
     <li>Property Rights (with P. Pin, R. Rozzi and P. Campana)</li>
+	<a href="https://github.com/andrea-giovannetti/PropertyRightsOCGs">[Replication Files]</a> 
+
     <li>Dangerous Liaisons: A network analysis and a longitudinal study of Violence in the London Metropolitan Area (with P. Campana)</li>
     <li>How Organized Crime Groups Interact: A Theory of Differential Cooperation (with P. Campana)</li>
     <li>Formation of Supply Chains and Trade Credit: Can Banks Amplify Contagion Risk? (with G. Cardillo) </li>
