@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Takeovers in Drug Markets
-description: A Model and Evidence from a Large UK Region
+description: Understanding evidence from a Large Region of UK
 img: assets/img/projects/property1.jpg
 importance: 1
 category: research
@@ -9,9 +9,9 @@ category: research
 
 ---
 
-_No institution grants Organized Criminal Groups (OCGs) the right to possess or control a territory. Nevertheless, these entities find ways to take control of such areas. Using empirical data from Merseyside, U.K., we document the distribution of OCGs' violence and territorial control across the region. We find that OCGs' violence concentrates on the most profitable areas, but surprisingly, no OCG can establish forms of control over those areas. We propose a theoretical model that rationalizes these empirical observations by examining how OCGs strategically select which area to exploit based on profitability and the presence of other OCGs_
+_No institution grants Organized Criminal Groups (OCGs) the right to possess or control a territory. Nevertheless, sometimes these entities find ways to take control of such areas. Using empirical data from Merseyside, U.K., we document the distribution of OCGs' violence and territorial control across the region. We find that OCGs' violence concentrates on the most profitable areas, but surprisingly, no OCG can establish forms of control over those areas. We propose a theoretical model that rationalizes these empirical observations by examining how OCGs strategically select which area to exploit based on profitability and the presence of other OCGs_
 
-**[Replication Files](https://github.com/andrea-giovannetti/PropertyRightsOCGs)**
+**[[Replication Files]](https://github.com/andrea-giovannetti/PropertyRightsOCGs)**
 
 
 
