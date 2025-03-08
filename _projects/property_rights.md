@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Inoculation vs Deplatforming
-description: Organized Crime Group Takeovers in Drug Markets: A Model and Evidence from a Large UK Region
+title: Organized Crime Group Takeovers in Drug Markets
+description: A Model and Evidence from a Large UK Region
 img: assets/img/projects/property1.jpg
 importance: 1
 category: research
@@ -9,8 +9,7 @@ category: research
 
 ---
 
-_This post summarizes a short pilot behind a comprehensive project I am working on with [Matteo Vergani](https://experts.deakin.edu.au/27631-Matteo-Vergani) and other colleagues at Deakin University.
-In this work, we developed a cost-benefit methodology to assess the peculiar merits of information inoculation as opposed to deplatforming for controlling extremism._
+_This post summarizes a paper on property rights and OCGs._
 
 
 
@@ -18,7 +17,7 @@ In this work, we developed a cost-benefit methodology to assess the peculiar mer
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Evaluating Policy Synergies Against Online Extremism</title>
+    <title>Organized Crime Group Takeovers in Drug Markets: A Model and Evidence from a Large UK Region </title>
 </head>
 <body>
     <div class="post">
@@ -41,15 +40,15 @@ In this work, we developed a cost-benefit methodology to assess the peculiar mer
 
                 <div class="col-md-6">
                     <div class="figure-container text-center mb-4">
-                        {% include figure.html path="assets/img/projects/TS_agg1.jpg" title="Radicalization dynamics for three policy mixes" class="img-fluid rounded z-depth-1" %}
+                        {% include figure.html path="assets/img/projects/property1.jpg" title="The Segmentation of Drug Markets in Merseyside" class="img-fluid rounded z-depth-1" %}
                         <div class="caption" style="text-align: left;">
-                            <strong>Figure 1.</strong> Radicalization dynamics for three policy mixes achieving equivalent end-state levels of radicalization through different configurations of inoculation and deplatforming: no inoculation/high deplatforming (left pane) scarce inoculation/medium deplatforming (centre pane) and high inoculation/moderate deplatforming (right pane). In each figure the black curve is the average radicalization level in the specific period and the grey area is the volatility of observed radicalization for that period across 100 simulations. Higher levels of inoculation stabilize the outcome of the simulations.
+                            <strong>Figure 1.</strong>  Ranking of areas across Merseyside (at MSOA level) ranked and filed into ten tiers built upon the number of drug dealing events recorded within each area.(Left Axis.) Episodes of OCG-induced serious violence. (Right Axis.) Average number of OCGs and Average number of areas per OCG, respectively plotted in blue and black. Each area corresponds to a specific Middle Layer Super Output Area (MSOA) in the ONS coding system.
                         </div>
                     </div>
                     <div class="figure-container text-center">
-                        {% include figure.html path="assets/img/projects/USBenCost.jpg" title="Pairs of cost-equivalent policy mixes" class="img-fluid rounded z-depth-1" %}
+                        {% include figure.html path="assets/img/projects/property2.jpg" title="The Segmentation of Drug Markets in the Model" class="img-fluid rounded z-depth-1" %}
                         <div class="caption" style="text-align: left;">
-                            <strong>Figure 2.</strong> Pairs of cost-equivalent policy mixes (left one: no inoculation right one: max inoculation) under three target scenarios. Cost of monitoring is calibrated on a community of 1000 users using U.S. based Facebook contracting information. For each policy mix blue areas are the cost of monitoring whereas red areas are the total savings on monitoring caused by introducing the optimal level of inoculation.
+                            <strong>Figure 2.</strong> for each area, the average frequency of violence, the average OCG concentration level, and the average streak per period as obtained from the simulation of the model with setup given by N = 10 OCGs, M = 10 areas, η = 10 and T = 80, 000
                         </div>
                     </div>
                 </div>

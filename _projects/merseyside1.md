@@ -5,7 +5,7 @@ description: How Organized Crime Groups Interact - A Theory of Differential Coop
 img: assets/img/projects/coop_idx.jpg
 category: research
 #related_publications: 
-importance: 2
+importance: 3
 ---
 
 _Gang violence is a pressing emergency in urban realities across the western world, and it is considered a fundamental driver of the contemporary [knife epidemics](https://theconversation.com/knife-crime-has-increased-in-england-and-wales-over-the-last-decade-heres-how-the-next-government-can-prevent-it-230905) characterizing U.K. in recent year. This work is at the center of a series of papers I am working of with [Paolo Campana](https://www.crim.cam.ac.uk/People/dr-paolo-campana) in coordination with various police forces, particularly [Merseyside Police](https://www.merseyside.police.uk/) and [Metropolitan Police](https://www.met.police.uk/) to understand the fundations of this phenomenon and what we can do to tackle it._

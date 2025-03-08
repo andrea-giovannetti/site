@@ -3,7 +3,7 @@ layout: page
 title: Inoculation vs Deplatforming
 description: Evaluating Policy Synergies Against Online Extremism - An Agent-Based Simulation and Cost-Benefit Analysis
 img: assets/img/projects/end_po_0_6.png
-importance: 1
+importance: 2
 category: research
 #related_publications: 
 
