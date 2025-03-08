@@ -67,7 +67,7 @@ _No institution grants Organized Criminal Groups (OCGs) the right to possess or 
                     <section>
                         <h2>Implications</h2>
 			<ul>
-                        <li>Violence is not necessary a good proxy for OCG activity. In fact, lack of violence in an area might signal the establishment of property rights in that area and, a concern for authorities and general public, the presence of an efficient rent extraction technology being put in place by resident groups. </li>
+                        <li>Violence is not necessary a good proxy for OCG activity. In fact, lack of violence in an area might signal the establishment of property rights in that area and, a concern for authorities and general public, the presence of an efficient rent extraction technology being put in place by resident OCGs. </li>
 			<li>Policies homogeneously targeting crime across cities can lead to asymmetries across areas relative to the observed level of violence and the stability of OCG control.</li>
 			</ul>
                     </section>
