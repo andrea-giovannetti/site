@@ -9,7 +9,7 @@ category: research
 
 ---
 
-_This post summarizes a paper on property rights and OCGs._
+_No institution grants Organized Criminal Groups (OCGs) the right to possess or control a territory. Nevertheless, these entities find ways to take control of such areas. Using empirical data from Merseyside, U.K., we document the distribution of OCGs' violence and territorial control across the region. We find that OCGs' violence concentrates on the most profitable areas, but surprisingly, no OCG can establish forms of control over those areas. We propose a theoretical model that rationalizes these empirical observations by examining how OCGs strategically select which area to exploit based on profitability and the presence of other OCGs. Our model predicts that, when the frequency of OCG activity is sufficiently high, each OCG controls one area, while the violence between OCGs remains low across all areas. When the frequency of OCG activity reduces, violent collisions between OCGs only occur in the most profitable areas, while some OCGs control the medium profitable areas._
 
 
 
