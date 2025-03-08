@@ -36,7 +36,7 @@ _No institution grants Organized Criminal Groups (OCGs) the right to possess or 
                     </section>
                     <section>
                         <h2>Methodology</h2>
-                        <p> In this paper we develop a model of rational choice to argue that observed violence  (or its absence) may be a consequence of how OCGs select which markets to target vis-à-vis the choices of other (competing) groups. The core of our argument is that for rational OCGs, a trade-off exists between the profitability of a specific market and the costs involved in a confrontation with incumbent groups. When the cost of exploring areas  is sufficiently high (due, for example, to a vigorous police activity in the streets), each OCG controls one area, while the violence between OCGs remains low across all areas. When the frequency of OCG activity reduces, violent collisions between OCGs only occur in the most profitable areas, while some OCGs control the medium profitable areas. </p>
+                        <p> We develop a model of rational choice to argue that observed violence  (or its absence) may be a consequence of how OCGs select which markets to target vis-à-vis the choices of other (competing) groups. The core of our argument is that for rational OCGs, a trade-off exists between the profitability of a specific market and the costs involved in a confrontation with incumbent groups. When the cost of exploring areas  is sufficiently high (due, for example, to a vigorous police activity in the streets), each OCG controls one area, while the violence between OCGs remains low across all areas. When the frequency of OCG activity reduces, violent collisions between OCGs only occur in the most profitable areas, while some OCGs control the medium profitable areas. </p>
                     </section>
                 </div>
 
@@ -74,8 +74,8 @@ _No institution grants Organized Criminal Groups (OCGs) the right to possess or 
                     <section>
                         <h2>Future Research</h2>
                         <ul>
-                            <li>Our results pertain the shape of a specific market within a certain temporal snapshot and provide a starting ground for exploring the structure of interconnected markets.</li>
-                            <li>The notion of market analyzed in this paper is horizontal. Hence, in future research it will be important  to assess how the relationship between violence and drugs carries over to vertical markets (i.e. supply chains).</li>
+                            <li>Our current results pertain the shape of a specific market within a certain temporal snapshot and provide a starting ground for exploring the structure of interconnected markets.</li>
+                            <li>The notion of market analyzed in this project is horizontal. Hence, in future research it will be important  to assess how the relationship between violence and drugs carries over to vertical markets (i.e. supply chains).</li>
                         </ul>
                     </section>
                 </div>
