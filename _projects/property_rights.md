@@ -30,7 +30,7 @@ _This post summarizes a paper on property rights and OCGs._
                     </section>
                     <section>
                         <h2>Aims</h2>
-                        <p>The study aimed to assess the effectiveness of two distinct strategies adopted by policymakers around the world for mitigating the spread of online extremism: deplatforming (i.e. targeted surveillance and coercive removal of extremist users) and inoculation (i.e exposing the user base to weakened forms of extremist arguments to build group-wide resilience). Crucially our approach allowed us to evaluate the existence of synergies in the combined use of these policies as opposed to using only one policy.</p>
+                        <p> we review the structure of urban drug markets and OCG-related violence in a large area of U.K, Merseyside (1.4M residents), through a unique dataset containing all OCG-related offenses across years 2015-2018. We aim to supply a theory motivating the observed patterns of drug dealing, violence and turnover between OCGs across areas.</p>
                     </section>
                     <section>
                         <h2>Methodology</h2>
@@ -60,7 +60,7 @@ _This post summarizes a paper on property rights and OCGs._
                         <h2>Key Findings</h2>
                         <ul>
                             <li>Our model predicts that cities where OCGs are on average more active will jointly feature a more efficient market targeting (as measured in terms of OCG turnover across areas) and lower average amounts of violence. On the other hand, cities manifesting a lower level of OCG activity may show more complex targeting patterns and structural differences between markets. In particular, the model predicts higher OCG concentration, faster turnaround and higher average level of violence in the high-end segment and a relatively more peaceful and disperse control structure for the medium and low-end segment. </li>
-                            <li>Equipped with these insights, we review the structure of urban drug markets and OCG-related violence in a large area of U.K, Merseyside (1.4M residents), through a unique dataset containing all OCG-related offenses across years 2015-2018. We show that the structure of drug markets of Merseyside conforms to our model predictions in many dimensions. Particularly, areas characterized by high volumes of drug offenses are characterized by higher OCG turnaround and higher levels of violence as compared to medium volume areas, suggesting an entrenchment effect for groups operating in the latter segment.</li>
+                            <li> We show that the structure of drug markets of Merseyside conforms to our model predictions in many dimensions. Particularly, areas characterized by high volumes of drug offenses are characterized by higher OCG turnaround and higher levels of violence as compared to medium volume areas, suggesting an entrenchment effect for groups operating in the latter segment.</li>
                         </ul>
                     </section>
                     <section>
