@@ -34,7 +34,7 @@ _This post summarizes a paper on property rights and OCGs._
                     </section>
                     <section>
                         <h2>Methodology</h2>
-                        <p>. In this paper we develop a model of rational choice to argue that observed violence  (or its absence) may be a consequence of how OCGs select which markets to target vis-à-vis the choices of other (competing) groups. The core of our argument is that for rational OCGs, a trade-off exists between the profitability of a specific market and the costs involved in a confrontation with incumbent groups..</p>
+                        <p> In this paper we develop a model of rational choice to argue that observed violence  (or its absence) may be a consequence of how OCGs select which markets to target vis-à-vis the choices of other (competing) groups. The core of our argument is that for rational OCGs, a trade-off exists between the profitability of a specific market and the costs involved in a confrontation with incumbent groups.</p>
                     </section>
                 </div>
 
@@ -42,7 +42,7 @@ _This post summarizes a paper on property rights and OCGs._
                     <div class="figure-container text-center mb-4">
                         {% include figure.html path="assets/img/projects/property1.jpg" title="The Segmentation of Drug Markets in Merseyside" class="img-fluid rounded z-depth-1" %}
                         <div class="caption" style="text-align: left;">
-                            <strong>Figure 1.</strong>  Ranking of areas across Merseyside (at MSOA level) ranked and filed into ten tiers built upon the number of drug dealing events recorded within each area.(Left Axis.) Episodes of OCG-induced serious violence. (Right Axis.) Average number of OCGs and Average number of areas per OCG, respectively plotted in blue and black. Each area corresponds to a specific Middle Layer Super Output Area (MSOA) in the ONS coding system.
+                            <strong>Figure 1.</strong>  Ranking of areas across Merseyside (at MSOA level) ranked and filed into ten tiers built upon the number of drug dealing events recorded within each area. (Left Axis.) Episodes of OCG-induced serious violence. (Right Axis.) Average number of OCGs and Average number of areas per OCG, respectively plotted in blue and black. Each area corresponds to a specific Middle Layer Super Output Area (MSOA) in the ONS coding system.
                         </div>
                     </div>
                     <div class="figure-container text-center">
