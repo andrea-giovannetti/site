@@ -30,7 +30,7 @@ _No institution grants Organized Criminal Groups (OCGs) the right to possess or 
                     </section>
                     <section>
                         <h2>Aims</h2>
-                        <p> we review the structure of urban drug markets and OCG-related violence in a large area of U.K, Merseyside (1.4M residents), through a unique dataset containing all OCG-related offenses across years 2015-2018. We aim to supply a theory motivating the observed patterns of drug dealing, violence and turnover between OCGs across areas.</p>
+                        <p> We review the structure of urban drug markets and OCG-related violence in a large area of U.K, Merseyside (1.4M residents), through a unique dataset containing all OCG-related offenses across years 2015-2018. We aim to supply a theory motivating the observed patterns of drug dealing, violence and turnover between OCGs across areas.</p>
                     </section>
                     <section>
                         <h2>Methodology</h2>
@@ -42,8 +42,7 @@ _No institution grants Organized Criminal Groups (OCGs) the right to possess or 
                     <div class="figure-container text-center mb-4">
                         {% include figure.html path="assets/img/projects/property1.jpg" title="The Segmentation of Drug Markets in Merseyside" class="img-fluid rounded z-depth-1" %}
                         <div class="caption" style="text-align: left;">
-                            <strong>Figure 1.</strong>  Ranking of areas across Merseyside (at MSOA level) ranked and filed into ten tiers built upon the number of drug dealing events recorded within each area. (Left Axis.) Episodes of OCG-induced serious violence. (Right Axis.) Average number of OCGs and Average number of areas per OCG, respectively plotted in blue and black. Each area corresponds to a specific Middle Layer Super Output Area (MSOA) in the ONS coding system.
-                        </div>
+                            <strong>Figure 1.</strong>  Areas of Merseyside (at MSOA level) filed into ten tiers depending on the number of drug dealing events recorded within each area. (Left Axis.) Episodes of OCG-induced serious violence. (Right Axis.) Average number of OCGs and average OCG turnaround, per area, respectively plotted in blue and black.                        </div>
                     </div>
                     <div class="figure-container text-center">
                         {% include figure.html path="assets/img/projects/property2.jpg" title="The Segmentation of Drug Markets in the Model" class="img-fluid rounded z-depth-1" %}
