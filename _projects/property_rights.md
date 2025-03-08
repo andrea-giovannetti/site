@@ -65,8 +65,10 @@ _This post summarizes a paper on property rights and OCGs._
                     </section>
                     <section>
                         <h2>Implications</h2>
-                        <p>Violence is not necessary a good proxy for OCG activity. In fact, lack of violence in an area might signal the establishment of property rights in that area and, a concern for authorities and general public, the presence of an efficient rent extraction technology being put in place by resident groups. </p>
-			<Policies homogeneously targeting crime across cities can lead to asymmetries across areas relative to the observed level of violence and the stability of OCG control.
+			<ul>
+                        <li>Violence is not necessary a good proxy for OCG activity. In fact, lack of violence in an area might signal the establishment of property rights in that area and, a concern for authorities and general public, the presence of an efficient rent extraction technology being put in place by resident groups. </li>
+			<li>Policies homogeneously targeting crime across cities can lead to asymmetries across areas relative to the observed level of violence and the stability of OCG control.</li>
+			</ul>
                     </section>
                     <section>
                         <h2>Future Research</h2>
