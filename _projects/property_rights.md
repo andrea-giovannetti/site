@@ -50,7 +50,7 @@ _No institution grants Organized Criminal Groups (OCGs) the right to possess or 
                     </div>
                     <div class="figure-container text-center">
                         {% include figure.html path="assets/img/projects/property2.jpg" title="The Segmentation of Drug Markets in the Model" class="img-fluid rounded z-depth-1" %}
-                        <div class="caption" style="text-align: left;">
+                        <div class="caption" style="text-align: right;">
                             <strong>Figure 2.</strong> For each area, the average frequency of violence, the average OCG concentration level, and the average streak per period as obtained from the simulation of the model with setup given by N = 10 OCGs, M = 10 areas, η = 10 and T = 80,000. Areas are ordered by lower to higher profitability.
                         </div>
                     </div>
