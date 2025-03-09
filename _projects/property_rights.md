@@ -11,7 +11,7 @@ category: research
 
 
 
-_No institution grants Organized Criminal Groups (OCGs) the right to possess or control a territory. Nevertheless, sometimes these entities find ways to take control of such areas. Using empirical data from Merseyside, U.K., we document the distribution of OCGs' violence and territorial control across the region. We find that OCGs' violence concentrates on the most profitable areas, but surprisingly, no OCG can establish forms of control over those areas. We propose a theoretical model that rationalizes these empirical observations by examining how OCGs strategically select which area to exploit based on profitability and the presence of other OCGs_
+_No institution grants Organized Criminal Groups (OCGs) the right to possess or control a territory. Nevertheless, sometimes these entities find ways to take control of such areas. Using empirical data from Merseyside, U.K., we document the distribution of OCGs' violence and territorial control across the region. We find that OCGs' violence concentrates on the most profitable areas, but surprisingly, no OCG can establish forms of control over those areas. We propose a theoretical model that rationalizes these empirical observations by examining how OCGs strategically select which area to exploit based on profitability and the presence of other OCGs._
 
 **[[Replication Files]](https://github.com/andrea-giovannetti/PropertyRightsOCGs)**
 
@@ -38,7 +38,7 @@ _No institution grants Organized Criminal Groups (OCGs) the right to possess or 
                     </section>
                     <section>
                         <h2>Methodology</h2>
-                        <p> We develop a model of rational choice to argue that observed violence (or its absence) may be a consequence of choices taken by OCGs in two parallel dimensions: first, the degree of ``crime activism" (i.e. the intensity of search for crime opportunities across the city); second, the pattern of market exploration constructed by each OCG vis-à-vis the pattern picked by (competing) groups. The core of our argument is that for rational OCGs, a trade-off exists between the profitability of a given area and the costs involved with confronting with incumbent  OCGs, if any.  When the cost of exploring the city is small (for example, because police activity is sporadic), OCGs have a good understanding of the exploration patterns of other groups, and as a result, each OCG ends up controlling a well-defined reference area. Hence, clashes (i.e. violence) between OCGs remains low across all areas. However, when the frequency of OCG activity reduces, (due to, for example, <a href="https://www.theguardian.com/law/article/2024/aug/21/stop-and-search-study-in-england-and-wales-casts-doubt-on-effectiveness">a vigorous, yet untargeted police activity</a> in the streets), the model will predict a spike of violence and the emergence of turf wars between OCGs. </p>
+                        <p> We develop a model of rational choice to argue that observed violence (or its absence) may be a consequence of choices taken by OCGs in two parallel dimensions: first, the degree of `crime activism' (i.e. the intensity of search for crime opportunities across the city); second, the pattern of market exploration constructed by each OCG vis-à-vis the pattern picked by (competing) groups. The core of our argument is that for rational OCGs, a trade-off exists between the profitability of a given area and the costs involved with confronting with incumbent  OCGs, if any.  When the cost of exploring the city is small (for example, because police activity is sporadic), OCGs have a good understanding of the exploration patterns of other groups, and as a result, each OCG ends up controlling a well-defined reference area. Hence, clashes (i.e. violence) between OCGs remains low across all areas. However, when the frequency of OCG activity reduces, (due to, for example, <a href="https://www.theguardian.com/law/article/2024/aug/21/stop-and-search-study-in-england-and-wales-casts-doubt-on-effectiveness">a vigorous, yet untargeted police activity</a> in the streets), the model will predict a spike of violence and the emergence of turf wars between OCGs. </p>
                     </section>
                 </div>
 
@@ -46,12 +46,12 @@ _No institution grants Organized Criminal Groups (OCGs) the right to possess or 
                     <div class="figure-container text-center mb-4">
                         {% include figure.html path="assets/img/projects/property1.jpg" title="The Segmentation of Drug Markets in Merseyside" class="img-fluid rounded z-depth-1" %}
                         <div class="caption" style="text-align: left;">
-                            <strong>Figure 1.</strong>  Areas of Merseyside (at MSOA level) filed into ten tiers depending on the number of drug dealing events recorded within each area. (Left Axis.) Episodes of OCG-induced serious violence. (Right Axis.) Average number of OCGs and average OCG turnaround, per area, respectively plotted in blue and black. </div>
+                            <strong>Figure 1.</strong>  Areas of Merseyside (at MSOA level) are filed into ten tiers by the number of drug dealing events recorded within each area. (Left Axis.) Episodes of OCG-induced serious violence. (Right Axis.) Average number of OCGs and average OCG turnaround, per area, respectively plotted in blue and black. </div>
                     </div>
                     <div class="figure-container text-center">
                         {% include figure.html path="assets/img/projects/property2.jpg" title="The Segmentation of Drug Markets in the Model" class="img-fluid rounded z-depth-1" %}
                         <div class="caption" style="text-align: left;">
-                            <strong>Figure 2.</strong> For each area, the average frequency of violence, the average OCG concentration level, and the average streak per period as obtained from the simulation of the model with setup given by N = 10 OCGs, M = 10 areas, η = 10 and T = 80, 000
+                            <strong>Figure 2.</strong> For each area, the average frequency of violence, the average OCG concentration level, and the average streak per period as obtained from the simulation of the model with setup given by N = 10 OCGs, M = 10 areas, η = 10 and T = 80,000. Areas are ordered by lower to higher profitability.
                         </div>
                     </div>
                 </div>
