@@ -4,7 +4,7 @@ title:  Gang Cooperation, Drugs and Violence in U.K.
 description: How Organized Crime Groups Interact - A Theory of Differential Cooperation
 img: assets/img/projects/coop_idx.jpg
 category: research
-related_publications: campana2025structure giovannetti2025theory
+related_publications: campana2025structure; giovannetti2025theory
 importance: 3
 ---
 
