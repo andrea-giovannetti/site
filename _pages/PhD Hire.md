@@ -1,21 +1,30 @@
 ---
 layout: page
-permalink: /PhD Hire/
+permalink: /PhD Openings!/
 title: PhD Hire
 # description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-I am currently open for supervision of PhD students at [ACU Peter Faber Business School](https://www.acu.edu.au/).
+## 🎓 PhD Supervision at [ACU Peter Faber Business School](https://www.acu.edu.au/)
 
-If you are:
+I am currently **open to supervising PhD students** at **[ACU Peter Faber Business School](https://www.acu.edu.au)**.
 
-<ul>
-	<li>Excited about working on contemporary  policy-relevant matters in topics of organized crime, urban disorganization, online hate solving real-life problems for high-profile stakeholders</li>
-	<li>Interested in joining an global team of specialists</li>
-	<li>Have a solid background in any (or multiple) of these fields: <strong>statistics, econometrics, quantitative criminology, big data analysis, image recognition, natural language processing</strong>
-</ul>
+### 🔍 Who I’m Looking For:
+Are you passionate about **policy-relevant research** and solving **real-world problems** for high-profile stakeholders? If so, I’d love to hear from you!
 
+I welcome applications from candidates who:
+- **Are excited** to work on topics related to **organized crime, urban disorganization, and online hate**.
+- **Want to collaborate** with a **global team of specialists** in cutting-edge research.
+- **Have a strong background** in one or more of the following areas:
 
-feel free do get in touch! 
+### Relevant Fields:
+- **Statistics & Econometrics**  
+- **Quantitative Criminology**  
+- **Big Data Analysis**  
+- **Image Recognition**  
+- **Natural Language Processing**  
+
+### 📩 Get in Touch!
+If this aligns with your research interests and expertise, have a look at the project page where you can find some example of the works we are currently doing and **reach out**—I’d love to discuss potential opportunities!
