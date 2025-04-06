@@ -87,7 +87,7 @@ partners_andrea:
 
   <h3>Main grants: (USD equivalent)</h3>
   <ul>
-    <li>Countering Violent Extremism (CVE) Phase 2, Department of Home Affairs, 2025 (<strong>52,000 USD</strong>)</li>
+    <li>Countering Violent Extremism (Phase 2), Department of Home Affairs, 2025 (<strong>52,000 USD</strong>)</li>
     <li>Unconvering the link between online hate and offline violence, Deakin, 2025 (<strong>25,300 USD</strong>)</li>
     <li>Breaking networks of youth serious violence, Nuffield Fundation, 2024 (team member) (<strong>147,070 USD</strong>)</li>
     <li> A relational approach to explain violence in the UK, ESRC, 2024 (team member) (<strong>318,893 USD</strong>) </li>
