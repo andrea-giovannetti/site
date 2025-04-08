@@ -69,8 +69,9 @@ partners_andrea:
 
  <h3>I am working on:</h3>
   <ol>
-    <li>Property Rights (with P. Pin, R. Rozzi and P. Campana)</li>
-	<a href="https://github.com/andrea-giovannetti/PropertyRightsOCGs">[Replication Files]</a> 
+    <li>Endogenous Property Rights over Drug Markets:
+Theory and Evidence from Merseyside, U.K. (with P. Pin, R. Rozzi and P. Campana) <a href="https://github.com/andrea-giovannetti/PropertyRightsOCGs">[Replication Files]</a> </li>
+	
 
     <li>Dangerous Liaisons: A network analysis and a longitudinal study of Violence in the London Metropolitan Area (with P. Campana)</li>
     <li>How Organized Crime Groups Interact: A Theory of Differential Cooperation (with P. Campana)</li>
