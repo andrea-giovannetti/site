@@ -20,7 +20,7 @@ partners_andrea:
     url: "http://www.cam.ac.uk"
   - image_path: /assets/img/home_affairs_logo.png
     alt: "Department of Home Affairs"
-    url: "http://www.cam.ac.uk"
+    url: "https://www.homeaffairs.gov.au/"
   - image_path: /assets/img/merseyside_logo.png
     alt: "Merseyside Police"
     url: "https://www.merseyside.police.uk/"
