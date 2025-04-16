@@ -18,6 +18,9 @@ partners_andrea:
   - image_path: /assets/img/cambridge_logo.png
     alt: "University of Cambridge"
     url: "http://www.cam.ac.uk"
+  - image_path: /assets/img/home_affairs_logo.png
+    alt: "Department of Home Affairs"
+    url: "http://www.cam.ac.uk"
   - image_path: /assets/img/merseyside_logo.png
     alt: "Merseyside Police"
     url: "https://www.merseyside.police.uk/"
@@ -33,9 +36,6 @@ partners_andrea:
   - image_path: /assets/img/siena.png
     alt: "Siena University"
     url: "https://www.unisi.it/"
-  - image_path: /assets/img/hilst.png
-    alt: "HILST Lab"
-    url: "https://hilstlab.org"
   - image_path: /assets/img/oxf.png
     alt: "University of Oxford"
     url: "http://ox.ac.uk"
