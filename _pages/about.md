@@ -86,10 +86,10 @@ Theory and Evidence from Merseyside, U.K. (with P. Pin, R. Rozzi and P. Campana)
 
 <br> 
 
-  <h3>Main grants: (USD equivalent)</h3>
+  <h3>Main grants (USD equivalent):</h3>
   <ul>
     <li>Countering Violent Extremism (Phase 2), Department of Home Affairs, 2025 (<strong>54,000 USD</strong>)</li>
-    <li>Unconvering the link between online hate and offline violence, Deakin, 2025 (<strong>25,300 USD</strong>)</li>
+    <li>Uncovering the link between online hate and offline violence, Deakin, 2025 (<strong>25,300 USD</strong>)</li>
     <li>Breaking networks of youth serious violence, Nuffield Fundation, 2024 (team member) (<strong>147,070 USD</strong>)</li>
     <li> A relational approach to explain violence in the UK, ESRC, 2024 (team member) (<strong>318,893 USD</strong>) </li>
     <li>Marie Sklodowska-Curie Individual Fellowship (eval. top 1%), 2020 (<strong>256,950 USD</strong>)</li>
