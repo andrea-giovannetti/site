@@ -5,7 +5,7 @@ description: Understanding evidence from a Large Region of UK
 img: assets/img/projects/property1.jpg
 importance: 1
 category: research
-#related_publications: 
+#related_publications: "rozzi2025"
 
 ---
 
