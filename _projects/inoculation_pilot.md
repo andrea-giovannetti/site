@@ -5,7 +5,7 @@ description: Evaluating Policy Synergies Against Online Extremism - An Agent-Bas
 img: assets/img/projects/end_po_0_6.png
 importance: 2
 category: research
-#related_publications: 
+#related_publications: "vergani2025synergies"
 
 ---
 

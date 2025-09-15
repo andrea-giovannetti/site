@@ -22,7 +22,7 @@ I welcome applications from candidates who:
 - **Quantitative Criminology**  
 - **Big Data Analysis**  
 - **Image Recognition**  
-- **Natural Language Processing**  
+- **Multi-agent modelling**  
 
 ### 📩 Get in Touch!
 If this intrigues you, have a look at the project page where you can find examples of our work in these domains and **reach out**—I’d love to discuss potential opportunities!
