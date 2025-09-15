@@ -76,7 +76,6 @@ Theory and Evidence from Merseyside, U.K. (with P. Pin, R. Rozzi and P. Campana)
     <li>Dangerous Liaisons: A network analysis and a longitudinal study of Violence in the London Metropolitan Area (with P. Campana)</li>
     <li>How Organized Crime Groups Interact: A Theory of Differential Cooperation (with P. Campana)</li>
     <li>Formation of Supply Chains and Trade Credit: Can Banks Amplify Contagion Risk? (with G. Cardillo) </li>
-    <li>Inoculation Against Online Extremism: An Agent Based Simulation and Cost Benefit Analysis (with M. Vergani, S. Ng, C.P. Lim, J. Zhang and R. Scott)</li>
     <li>Percolation Thresholds In Simple Bipartite Networks: a Generating Function Approach </li>
     <li>Local Interactions in a Market with Heterogeneous Expectations (with M. Anufriev and V. Panchenko) </li>
     <li>Trust thy neighbor: Measuring the effect of governance-type organised crime on local communities and markets: a quasi-natural experiment on Japan  (with M. Baradel) </li>
