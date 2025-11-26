@@ -87,9 +87,9 @@ Theory and Evidence from Merseyside, U.K. (with P. Pin, R. Rozzi and P. Campana)
 
   <h3>Main grants (USD equivalent):</h3>
   <ul>
-    <li>Deputy Vice-Chancellor grant (Research and Innovation), Deakin, 2025 (<strong>30,300 USD</strong>)</li>
+    <li>Deputy Vice-Chancellor grant (Research and Innovation), Deakin, 2025 (<strong>31,000 USD</strong>)</li>
     <li>Countering Violent Extremism (Phase 2), Department of Home Affairs, 2025 (<strong>59,000 USD</strong>)</li>
-    <li>Breaking networks of youth serious violence, Nuffield Fundation, 2024 (team member) (<strong>147,070 USD</strong>)</li>
+    <li>Breaking networks of youth serious violence, Nuffield Foundation, 2024 (team member) (<strong>147,070 USD</strong>)</li>
     <li> A relational approach to explain violence in the UK, ESRC, 2024 (team member) (<strong>318,893 USD</strong>) </li>
     <li>Marie Sklodowska-Curie Individual Fellowship (eval. top 1%), 2020 (<strong>256,950 USD</strong>)</li>
     <li>Best Lecturer of the University, University of Technology Sydney, 2020 (<strong>2,513 USD</strong>)</li>

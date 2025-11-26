@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
  
-I am currently **open to supervising PhD students** at **[ACU Peter Faber Business School](https://www.acu.edu.au)**.
+I am currently open to supervising PhD students at **[ACU Peter Faber Business School](https://www.acu.edu.au)** and the **[Tackling Hate Lab](https://tacklinghate.org/)** at Deakin University.
 
 
 Are you passionate about **policy-relevant research** and solving **real-world problems** for high-profile stakeholders?
