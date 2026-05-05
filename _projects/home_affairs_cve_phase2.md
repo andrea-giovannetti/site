@@ -9,7 +9,7 @@ related_publications: "giovannetti2025dro"
 
 ---
 
-_This is Phase 2 of the [National Countering Violent Extremism Research Project](https://www.homeaffairs.gov.au/about-us/our-portfolios/national-security/countering-terrorism/countering-violent-extremism), funded by the [Department of Home Affairs](https://www.homeaffairs.gov.au/) and led from the [Tackling Hate Lab](https://tacklinghate.org/) at Deakin University. We document and decompose the surge in online antisemitic and Islamophobic hate in Australia following the Hamas attacks of 7 October 2023 - and we show that the post-7-October hate ecosystem is built around the pre-existing one. The work is delivered as a series of evidence-driven outputs for policy stakeholders._
+_This is Phase 2 of the [National Countering Violent Extremism Research Project](https://www.homeaffairs.gov.au/about-us/our-portfolios/national-security/countering-terrorism/countering-violent-extremism), funded by the [Department of Home Affairs](https://www.homeaffairs.gov.au/). In this project, we document and decompose the surge in online antisemitic and Islamophobic hate in Australia following the Hamas attacks of 7 October 2023 - and we show that the post-7-October hate ecosystem is built around the pre-existing one._
 
 **[[Public Report: Unveiling Influence Flows in Online Anti-Jewish and Anti-Muslim Hate in Australia (Deakin DRO)]](https://dro.deakin.edu.au/articles/report/Unveiling_Influence_Flows_in_Online_Anti-Jewish_and_Anti-Muslim_Hate_in_Australia/31975407)**
 
@@ -110,8 +110,7 @@ _This is Phase 2 of the [National Countering Violent Extremism Research Project]
   <a href="https://www.acu.edu.au/"><img src="{{ '/assets/img/acu_logo.png' | relative_url }}" alt="Australian Catholic University" style="max-height: 70px;"></a>
   <a href="https://deakin.edu.au"><img src="{{ '/assets/img/deakin.png' | relative_url }}" alt="Deakin University" style="max-height: 70px;"></a>
 </div>
-
-<p style="margin-top: 1.5rem; font-size: 0.9em; color: #555;"><em>This research is supported by the Department of Home Affairs through Phase 2 of the National Countering Violent Extremism Research Project.</em></p>
+ 
 
 </body>
 </html>
