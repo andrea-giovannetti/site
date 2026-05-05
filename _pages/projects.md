@@ -5,7 +5,7 @@ permalink: /projects/
 # description: In progress! Check back later :)
 nav: true
 nav_order: 2
-display_categories: [research, academic, misc]
+display_categories: [policy, research, academic, misc]
 horizontal: false
 ---
 <!-- List of projects to make files for: academic: Ball Revamped, lm, norris project, arteaga project, rubik's cube similator, research: wray, briere, neutrino, massive gravity, artistic: webcomic, misc: proot installer, in and out audio, nxn calculator, lastnamle -->
