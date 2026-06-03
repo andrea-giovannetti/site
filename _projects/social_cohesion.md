@@ -9,7 +9,7 @@ related_publications: "vergani2026cohesion18, link2026cohesion17"
 
 ---
 
-_Australia, like most western democracies, monitors social cohesion through annual surveys of individual attitudes. After shocks such as the [Bondi attack of December 2025](https://www.aph.gov.au/Parliamentary_Business/Committees/) or the [Southport stabbings of July 2024](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/police-response-to-public-disorder-in-july-and-august-2024-tranche-1), policy-makers need to know not only how individuals feel, but whether the relational fabric of society is holding together. Working under the [Australian Resilient Democracy Network](https://politicsir.cass.anu.edu.au/research/projects/australian-resilient-democracy-network), with [Matteo Vergani](https://experts.deakin.edu.au/27631-Matteo-Vergani) (Deakin), [Rouven Link](https://scanloninstitute.org.au/) (Scanlon Foundation Research Institute), [Simon Angus](https://research.monash.edu/en/persons/simon-angus) (Monash), Melanie Rayment (NSW Premier's Department) and [Nicholas Biddle](https://researchers.anu.edu.au/researchers/biddle-n) (ANU), we propose a network-based framework that turns social cohesion into a measurable, system-level diagnostic._
+_Australia, like most western democracies, monitors social cohesion through annual surveys of individual attitudes. After shocks such as the Bondi attack of December 2025 or the Southport stabbings of July 2024 in UK, policy-makers need to know not only how individuals feel, but whether the relational fabric of society is holding together. Working under the Australian Resilient Democracy Network, with [Matteo Vergani](https://experts.deakin.edu.au/27631-Matteo-Vergani) (Deakin), [Rouven Link](https://scanloninstitute.org.au/) (Scanlon Foundation Research Institute), [Simon Angus](https://research.monash.edu/en/persons/simon-angus) (Monash), Melanie Rayment (NSW Premier's Department) and [Nicholas Biddle](https://researchers.anu.edu.au/researchers/biddle-n) (ANU), we propose a network-based framework that turns social cohesion into a measurable, system-level diagnostic._
 
 **[[Discussion Paper 17 - Conceptual Fragmentation]](https://politicsir.cass.anu.edu.au/files/docs/2026/4/Resilient-Democracy---Discussion-Paper-17---Conceptual-fragmentation---For-web.pdf)** &nbsp; **[[Discussion Paper 18 - Towards a Shared Measurement Framework]](https://politicsir.cass.anu.edu.au/files/docs/2026/4/Resilient-Democracy---Discussion-Paper-18---social-cohesion-measurement---For-web.pdf)** &nbsp; **[[Substack Summary]](https://australiandemocraticresilience.substack.com/p/measuring-social-cohesion-in-australia)**
 
@@ -89,7 +89,7 @@ _Australia, like most western democracies, monitors social cohesion through annu
     </div>
 
 <div class="team-members">
-  <h2>Team:</h2>
+  <h2>Main Team:</h2>
   <ul>
     <li><strong>A/Prof Matteo Vergani, Deakin University</strong> (<a href="mailto:matteo.vergani@deakin.edu.au">matteo.vergani@deakin.edu.au</a>)</li>
     <li><strong>Dr Andrea Giovannetti, Australian Catholic University</strong> (<a href="mailto:andrea.giovannetti@acu.edu.au">andrea.giovannetti@acu.edu.au</a>)</li>
@@ -97,7 +97,6 @@ _Australia, like most western democracies, monitors social cohesion through annu
     <li><strong>Prof Simon Angus, Monash University</strong></li>
     <li><strong>Melanie Rayment, NSW Premier's Department</strong></li>
     <li><strong>Prof Nicholas Biddle, Australian National University</strong></li>
-    <li><strong>Hugh Piper, Australian National University</strong></li>
     <li><strong>Alex Fischer, Australian National University</strong></li>
   </ul>
 </div>

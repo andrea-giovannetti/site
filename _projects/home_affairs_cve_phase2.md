@@ -11,7 +11,7 @@ related_publications: "giovannetti2025dro"
 
 _This is Phase 2 of the [National Countering Violent Extremism Research Project](https://www.homeaffairs.gov.au/about-us/our-portfolios/national-security/countering-terrorism/countering-violent-extremism), funded by the [Department of Home Affairs](https://www.homeaffairs.gov.au/). In this project, we document and decompose the surge in online antisemitic and Islamophobic hate in Australia following the Hamas attacks of 7 October 2023 - and we show that the post-7-October hate ecosystem is built around the pre-existing one._
 
-**[[Public Report: Unveiling Influence Flows in Online Anti-Jewish and Anti-Muslim Hate in Australia (Deakin DRO)]](https://dro.deakin.edu.au/articles/report/Unveiling_Influence_Flows_in_Online_Anti-Jewish_and_Anti-Muslim_Hate_in_Australia/31975407)**
+**[[Public Report: Unveiling Influence Flows in Online Anti-Jewish and Anti-Muslim Hate in Australia (Deakin DRO)]](https://tacklinghate.org/lab-insights/unveiling-influence-flows-in-online-anti-jewish-and-anti-muslim-hate-in-australia/)**
 
 <html lang="en">
 <head>
@@ -85,9 +85,6 @@ _This is Phase 2 of the [National Countering Violent Extremism Research Project]
                         <h2>Deliverables</h2>
                         <ul>
                             <li><a href="https://dro.deakin.edu.au/articles/report/Unveiling_Influence_Flows_in_Online_Anti-Jewish_and_Anti-Muslim_Hate_in_Australia/31975407">Public report</a> hosted on Deakin Research Online: <em>Unveiling Influence Flows in Online Anti-Jewish and Anti-Muslim Hate in Australia</em>.</li>
-                            <li>AVERT International Research Symposium 2025 presentation (Australian Catholic University and Deakin University).</li>
-                            <li>Forthcoming peer-reviewed manuscripts on (i) the incumbent-vs-newcomer toxicity gap and (ii) the persistence of centrality and toxicity in hate networks.</li>
-                            <li>Stakeholder briefings for the Department of Home Affairs.</li>
                         </ul>
                     </section>
                 </div>
