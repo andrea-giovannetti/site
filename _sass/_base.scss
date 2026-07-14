@@ -621,11 +621,13 @@ footer.sticky-bottom {
   }
 
   // Uniform, equal-sized project tiles (Masonry is disabled site-wide).
+  // minmax(220px) keeps three tiles per row at the 800px content width
+  // while collapsing gracefully to two/one column on narrow screens.
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
     grid-auto-rows: 1fr;
-    gap: 16px;
+    gap: 14px;
   }
 
   .grid-sizer {
