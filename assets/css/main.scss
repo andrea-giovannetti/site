@@ -21,24 +21,23 @@ $max-content-width: {{ site.max_width }};
 
 
 // -----------------------------------------------------------------------------
-// Custom site styles (partners strip, project team boxes)
+// Custom site styles (partners strip, project team boxes, navbar)
 // -----------------------------------------------------------------------------
 
 .partners {
   padding: 5px 0;
+  background: #ffffff;
   text-align: left;
 
-  h1,
-  h3 {
-    font-size: 1.6em;
+  h1 {
+    font-size: 2em;
     margin-bottom: 10px;
   }
 
   .partners-container {
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    gap: 14px;
+    justify-content: left;
+    gap: 10px;
     flex-wrap: wrap;
   }
 
@@ -47,31 +46,22 @@ $max-content-width: {{ site.max_width }};
     justify-content: center;
     align-items: center;
     width: 120px;
-    height: 70px;
-    padding: 8px;
-    border: 1px solid #e5e5e5;
-    border-radius: 6px;
-    transition: box-shadow 0.3s ease, transform 0.2s ease;
+    height: auto;
+    background: #ffffff;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
   }
 
   .partners-container a:hover {
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
-    transform: translateY(-2px);
+    background-color: #f0f0f0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
 
-  // Uniform, understated logos that light up on hover.
   .partners-container img {
     max-width: 100%;
     max-height: 100%;
-    object-fit: contain;
-    filter: grayscale(100%);
-    opacity: 0.75;
-    transition: filter 0.3s ease, opacity 0.3s ease;
-  }
-
-  .partners-container a:hover img {
-    filter: grayscale(0%);
-    opacity: 1;
+    height: auto;
   }
 }
 
@@ -81,5 +71,19 @@ $max-content-width: {{ site.max_width }};
   border-radius: 5px;
   padding: 20px;
   margin-bottom: 20px;
+}
+
+// Keep the top navbar on a single line even with all sections present.
+@media (min-width: 576px) {
+  .navbar .container {
+    max-width: 960px;
+  }
+
+  .navbar .navbar-nav .nav-item .nav-link {
+    white-space: nowrap;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-size: 0.95rem;
+  }
 }
 

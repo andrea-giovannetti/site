@@ -105,17 +105,8 @@ _This is Phase 2 of the [National Countering Violent Extremism Research Project]
   <ul>
     <li><strong>Dr Andrea Giovannetti, Australian Catholic University</strong> (lead) (<a href="mailto:andrea.giovannetti@acu.edu.au">andrea.giovannetti@acu.edu.au</a>)</li>
     <li><strong>A/Prof Matteo Vergani, Deakin University</strong> (<a href="mailto:matteo.vergani@deakin.edu.au">matteo.vergani@deakin.edu.au</a>)</li>
-    <li><strong>Stephanie Zi Xin Ng, Deakin University</strong> (<a href="mailto:szng@deakin.edu.au">szng@deakin.edu.au</a>)</li>
   </ul>
 </div>
-
-<div class="partners-container" style="margin-top: 2rem; display: flex; gap: 1.5rem; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.homeaffairs.gov.au/"><img src="{{ '/assets/img/home_affairs_logo.png' | relative_url }}" alt="Department of Home Affairs" style="max-height: 70px;"></a>
-  <a href="https://tacklinghate.org/"><img src="{{ '/assets/img/taklinghate.png' | relative_url }}" alt="Tackling Hate Lab" style="max-height: 70px;"></a>
-  <a href="https://www.acu.edu.au/"><img src="{{ '/assets/img/acu_logo.png' | relative_url }}" alt="Australian Catholic University" style="max-height: 70px;"></a>
-  <a href="https://deakin.edu.au"><img src="{{ '/assets/img/deakin.png' | relative_url }}" alt="Deakin University" style="max-height: 70px;"></a>
-</div>
- 
 
 </body>
 </html>
