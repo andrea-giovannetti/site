@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Takeovers in Drug Markets
-description: Understanding evidence from a Large Region of UK
+description: How criminal property rights suppress violence - a model and evidence from Merseyside, U.K.
 img: assets/img/projects/property1.jpg
 importance: 1
 category: research
@@ -13,7 +13,7 @@ category: research
 
 _No institution grants Organized Criminal Groups (OCGs) the right to possess or control a territory. Nevertheless, sometimes these entities find ways to take control of such areas. Using empirical data from Merseyside, U.K., we document the distribution of OCGs' violence and territorial control across the region. We find that OCGs' violence concentrates on the most profitable areas, but surprisingly, no OCG can establish forms of control over those areas. We propose a theoretical model that rationalizes these empirical observations by examining how OCGs strategically select which area to exploit based on profitability and the presence of other OCGs._
 
-**[[Replication Files]](https://github.com/andrea-giovannetti/PropertyRightsOCGs)**
+**[[Working Paper (PDF)]]({{ '/assets/pdf/Endogenous_Property_Rights.pdf' | relative_url }})** &nbsp; **[[Theoretical Supplement]]({{ '/assets/pdf/Endogenous_Property_Rights_theo_supp.pdf' | relative_url }})** &nbsp; **[[Replication Files]](https://github.com/andrea-giovannetti/PropertyRightsOCGs)**
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: me
+title: About
 permalink: /
 subtitle: <strong>Human Networks</strong> · <strong>Quantitative Criminology</strong> · <strong>Simulations and Metrics</strong>
 profile:

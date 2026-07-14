@@ -1,6 +1,6 @@
 ---
 layout: page
-title: policy work
+title: Policy Work
 permalink: /policy/
 nav: true
 nav_order: 3

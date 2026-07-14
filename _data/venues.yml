@@ -1,6 +1,6 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
+# Optional: map a BibTeX `abbr` field to a venue URL and badge colour.
+# Add entries here only if you set `abbr={...}` on entries in _bibliography/papers.bib.
+# Example:
+# "JCJ":
+#   url: https://www.sciencedirect.com/journal/journal-of-criminal-justice
+#   color: "#1a5276"

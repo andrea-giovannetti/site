@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications / WPs
+title: Publications / WPs
 description: 
 nav: true
 nav_order: 1

@@ -87,6 +87,14 @@ _This is Phase 2 of the [National Countering Violent Extremism Research Project]
                             <li><a href="https://dro.deakin.edu.au/articles/report/Unveiling_Influence_Flows_in_Online_Anti-Jewish_and_Anti-Muslim_Hate_in_Australia/31975407">Public report</a> hosted on Deakin Research Online: <em>Unveiling Influence Flows in Online Anti-Jewish and Anti-Muslim Hate in Australia</em>.</li>
                         </ul>
                     </section>
+                    <section>
+                        <h2>In the Media</h2>
+                        <p>As principal investigator, I discussed the findings of this work in the national press. See the <a href="{{ '/media/' | relative_url }}">media page</a> for the full list, including:</p>
+                        <ul>
+                            <li><a href="https://www.smh.com.au/politics/nsw/online-hatred-spiked-after-the-bondi-massacre-meta-knows-why-20260612-p606d5.html"><em>Online hatred spiked after the Bondi massacre: Meta knows why</em></a> — The Sydney Morning Herald.</li>
+                            <li><a href="https://www.theage.com.au/politics/nsw/online-hatred-spiked-after-the-bondi-massacre-meta-knows-why-20260612-p606d5.html"><em>Meta to front royal commission to answer for the role media has played in amplifying hate</em></a> — The Age.</li>
+                        </ul>
+                    </section>
                 </div>
             </div>
         </article>

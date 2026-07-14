@@ -20,53 +20,62 @@ $max-content-width: {{ site.max_width }};
 ;
 
 
-// ROBA DAL SITO QCRGROUP
-
-
+// -----------------------------------------------------------------------------
+// Custom site styles (partners strip, project team boxes)
+// -----------------------------------------------------------------------------
 
 .partners {
   padding: 5px 0;
-  background: #ffffff;
   text-align: left;
 
-  h1 {
-    font-size: 2em;
+  h1,
+  h3 {
+    font-size: 1.6em;
     margin-bottom: 10px;
   }
 
   .partners-container {
     display: flex;
-    justify-content: left;
-    gap: 10px;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 14px;
     flex-wrap: wrap;
   }
 
-   .partners-container a {
+  .partners-container a {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 120px;
-    height: auto; /* Adjust height based on the content */
-    background: #ffffff; /* Optional: background color for the boxes */
-    border: 2px solid #ddd; /* Optional: border for the boxes */
-    border-radius: 5px; /* Optional: rounded corners for the boxes */
-    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Transition effect */
+    height: 70px;
+    padding: 8px;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    transition: box-shadow 0.3s ease, transform 0.2s ease;
   }
 
- .partners-container a:hover {
-    background-color: #f0f0f0; /* Slight shade change */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slight shadow effect */
-}
+  .partners-container a:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
 
+  // Uniform, understated logos that light up on hover.
   .partners-container img {
     max-width: 100%;
     max-height: 100%;
-    height: auto;
+    object-fit: contain;
+    filter: grayscale(100%);
+    opacity: 0.75;
+    transition: filter 0.3s ease, opacity 0.3s ease;
+  }
+
+  .partners-container a:hover img {
+    filter: grayscale(0%);
+    opacity: 1;
   }
 }
 
-.team-members,
-.abstract {
+.team-members {
   background: #f9f9f9;
   border: 1px solid #ddd;
   border-radius: 5px;

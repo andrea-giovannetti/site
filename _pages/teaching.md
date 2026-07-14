@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 # description: 
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 A brief summary of my work as uni lecturer. Feel free to drop an email for teaching evaluations!
