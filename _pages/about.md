@@ -73,6 +73,7 @@ partners_andrea:
 Theory and Evidence from Merseyside, U.K. (with P. Pin, R. Rozzi and P. Campana) <a href="https://github.com/andrea-giovannetti/PropertyRightsOCGs">[Replication Files]</a> </li>
     <li>Weak governance and the drug-violence nexus: Evidence from the Merseyside (with P. Campana). <strong>Revision requested by: <em>Criminology</em></strong></li>
     <li>Swiping Right on Safety: Investigating Safety and Risks in Online Dating Environments: A Multi-Stakeholder Literature Review (with J. Vogeley, E. Ghasrodashti, E. Ghasrodashti and A. Zutshi). <strong>Revision Requested by: <em>Information and Organization</em></strong></li>
+    <li>Does online hate precede protest violence? A comparative event-level study of anti-immigration and anti-transgender mobilisation (with Matteo Vergani, Bogdan Mamaev, Kewen Liao, Kerry O'Brien and Stephanie Zi Xin NG)</li>
     <li>Dangerous Liaisons: A network analysis and a longitudinal study of Violence in the London Metropolitan Area (with P. Campana)</li>
     <li>Formation of Supply Chains and Trade Credit: Can Banks Amplify Contagion Risk? (with G. Cardillo) </li>
     <li>Percolation Thresholds In Simple Bipartite Networks: a Generating Function Approach </li>
