@@ -74,7 +74,7 @@ Theory and Evidence from Merseyside, U.K. (with P. Pin, R. Rozzi and P. Campana)
 	
 <li> Swiping Right on Safety: Investigating Safety and Risks in Online Dating Environments: A Multi-Stakeholder Literature Review (with J. Vogeley, E. Ghasrodashti, E. Ghasrodashti and A. Zutshi) </li>
     <li>Dangerous Liaisons: A network analysis and a longitudinal study of Violence in the London Metropolitan Area (with P. Campana)</li>
-    <li>How Organized Crime Groups Interact: A Theory of Differential Cooperation (with P. Campana)</li>
+    <li>Weak governance and the drug-violence nexus: Evidence from the Merseyside (with P. Campana) <strong>Revision requested by: <em>Criminology</em></strong></li>
     <li>Formation of Supply Chains and Trade Credit: Can Banks Amplify Contagion Risk? (with G. Cardillo) </li>
     <li>Percolation Thresholds In Simple Bipartite Networks: a Generating Function Approach </li>
     <li>Local Interactions in a Market with Heterogeneous Expectations (with M. Anufriev and V. Panchenko) </li>
