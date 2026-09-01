@@ -21,6 +21,9 @@ partners_andrea:
   - image_path: /assets/img/home_affairs_logo.png
     alt: "Department of Home Affairs"
     url: "https://www.homeaffairs.gov.au/"
+  - image_path: /assets/img/nsw_premier_logo.png
+    alt: "NSW Premier's Department"
+    url: "https://www.nsw.gov.au/departments-and-agencies/premiers-department"
   - image_path: /assets/img/merseyside_logo.png
     alt: "Merseyside Police"
     url: "https://www.merseyside.police.uk/"
@@ -30,6 +33,9 @@ partners_andrea:
   - image_path: /assets/img/deakin.png
     alt: "Deakin University"
     url: "https://deakin.edu.au"
+  - image_path: /assets/img/anu_logo.svg
+    alt: "Australian National University"
+    url: "https://www.anu.edu.au/"
   - image_path: /assets/img/taklinghate.png
     alt: "Tackling Hate"
     url: "https://tacklinghate.org/"
