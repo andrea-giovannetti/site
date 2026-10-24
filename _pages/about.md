@@ -94,6 +94,7 @@ Theory and Evidence from Merseyside, U.K. (with P. Pin, R. Rozzi and P. Campana)
 
   <h3>Main grants (USD equivalent):</h3>
   <ul>
+    <li>The Office of Australia's Special Envoy to Combat Islamophobia, 2026 (<strong>24,600 USD</strong>)</li>
     <li>NSW Premier's Department Grant, 2026 (<strong>20,000 USD</strong>)</li>
     <li>Deputy Vice-Chancellor grant (Research and Innovation), Deakin, 2025 (<strong>31,000 USD</strong>)</li>
     <li>Countering Violent Extremism (Phase 2), Department of Home Affairs, 2025 (<strong>59,000 USD</strong>)</li>
